@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Welcome to my website!
+Welcome to my basic website!
 
 ### Markdown
 
